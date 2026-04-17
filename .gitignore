@@ -1,0 +1,21 @@
+# Ignore everything by default, then allow only the standalone memory manager files.
+*
+!*/
+!.gitignore
+!memory_managerLanceDb.py
+!requirementsLance.txt
+!README_memory_managerLanceDb.md
+
+# Local artifacts that should stay out even if the ignore rules are relaxed later.
+.venv/
+.venv-1/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.duckdb
+*.lance/
+.rag_copilot_lancedb/
+.rag_pdf_kb/
+99-inizioSessioneVettoriale.md
+.copilot-memory/
