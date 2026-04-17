@@ -1,0 +1,11 @@
+. scrivo:
+Salva sempre i riassunti di sessione suddivisi per argomento  in .copilot-memory/  nella root del progetto, in formato MD.
+
+. Lancio "rag"
+
+. opzione 2
+
+. lui: 
+..salva in 99-inizioSessioneVettoriale
+
+I chunk già embeddati restano nel DB; vengono aggiornati solo i file MD cambiati.

@@ -5,6 +5,8 @@
 !memory_managerLanceDb.py
 !requirementsLance.txt
 !README_memory_managerLanceDb.md
+!promptChiusura.txt
+!promptApertura.txt
 
 # Local artifacts that should stay out even if the ignore rules are relaxed later.
 .venv/

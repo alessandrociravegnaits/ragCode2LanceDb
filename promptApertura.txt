@@ -1,0 +1,10 @@
+
+. Lancio "rag"
+. opzione 1
+. scrivo:
+
+Usa il contesto 99-inizioSessioneVettoriale per riprendere il lavoro dal punto in cui eravamo:
+
+Ora: [descrivi cosa vuoi fare oggi]
+
+Il sistema sceglie automaticamente i chunk migliori con il modello di embedding del libro.
